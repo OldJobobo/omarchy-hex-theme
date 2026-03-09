@@ -27,7 +27,8 @@ omarchy-theme-install https://github.com/OldJobobo/omarchy-hex-theme
 
 | | | |
 | --- | --- | --- |
-| ![](backgrounds/3d-hexagons-in-perspective-neon-lighting_3840x2160_xtrafondos.com.jpg) | ![](backgrounds/hexagons-3d-with-neon-lighting_3840x2160_xtrafondos.com.jpg) | ![](backgrounds/pentagon-tunnel-with-neon-lights_3840x2160_xtrafondos.com.jpg) |
+| ![](backgrounds/0-spectral-hive.jpg) | ![](backgrounds/1-violet-mesh.jpg) | ![](backgrounds/2-onyx-cells.jpg) |
+| ![](backgrounds/3-electric-comb.jpg) | ![](backgrounds/4-cyan-lattice.jpg) | ![](backgrounds/5-neon-tunnel.jpg) |
 
 ## Attribution
 
